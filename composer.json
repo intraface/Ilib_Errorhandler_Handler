@@ -1,5 +1,5 @@
 {
-  "name": "intraface/error-handler",
+  "name": "intraface/ilib-error-handler",
     "type": "library",
     "description": "Library for handling errors",
     "homepage": "https://github.com/intraface/Ilib_Errorhandler_Handler",
